@@ -1,6 +1,6 @@
 const arr = [
-    {rusName: ' Кусторез', chineName: '灌木铲除机', transcription: 'gē guànjī', value: '割灌机是拖拉机的附件，设计用于从灌木和灌木丛中清除侧面区域', img: 'img/Кусторез.jpg'},
-    {rusName: 'Корчеватель', chineName: '挖根机', transcription: 'wāgēn jī', value: '除根机是拖拉机的附件，设计用于拔除树桩、清除根部和石头（巨石）的坚固区域、清洁用割灌机切割的树干和灌木', img: 'img/Корчеватель.jpg'},
+    {rusName: ' Кусторез', chineName: '灌木铲除机', transcription: 'gē guànjī', value: '割灌机是拖拉机的附件，设计用于从灌木和灌木丛中清除侧面区域', img: 'https://autobau.ru/sites/default/files/imagecache/lightbox/srg_galerija_001.jpg'},
+    {rusName: 'Корчеватель', chineName: '挖根机', transcription: 'wāgēn jī', value: '除根机是拖拉机的附件，设计用于拔除树桩、清除根部和石头（巨石）的坚固区域、清洁用割灌机切割的树干和灌木', img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZRncD_c90S5CAFlaQvHId6iQbxBzRabmwQ&s'},
     {rusName: 'Рыхлитель', chineName: '松土器 ', transcription: 'sōngtǔqì ', value: '专为重土、多石土和冻土的初步松土而设计的施工机械', img: 'img/Рыхлитель.jpg'},
     {rusName: 'Автогрейдер', chineName: ' 平地机', transcription: 'píngdì jī', value: '是一种带有长铲刀的重型机械设备，用于土地或者道路平整中。', img: 'img/Автогрейдер.jpg'},
     {rusName: 'Бульдозер', chineName: '推土机', transcription: 'tuītǔjī ', value: '種工程車輛，前方裝有大型的金屬推土刀，使用时放下推土刀，向前铲削并推送泥、沙及石塊等，推土刀位置和角度可以调整，以适应铲土、填土等工作，亦可用以清除障碍物', img: 'img/Бульдозер.jpg'},
